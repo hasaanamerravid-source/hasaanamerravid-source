@@ -1,10 +1,10 @@
 # Hasaan Amer
 
- • Minecraft Java Mod & Shader Developer • 
+ • Minecraft Java Mod & Shader Developer •
 
 [![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/hasaanamerravid-source?tab=repositories)
-[![Modrinth](https://img.shields.io/badge/Modrinth-18181B?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com)
-[![CurseForge](https://img.shields.io/badge/CurseForge-18181B?style=flat-square&logo=curseforge&logoColor=F16436)](https://www.curseforge.com)
+[![Modrinth](https://img.shields.io/badge/Modrinth-18181B?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com/user/HasaanAmerRavid)
+[![CurseForge](https://img.shields.io/badge/CurseForge-18181B?style=flat-square&logo=curseforge&logoColor=F16436)](https://www.curseforge.com/members/hasaanamerravid/projects)
 
 ---
 
@@ -18,7 +18,15 @@
   <img src="https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=38BDF8" alt="Gradle" />
   <img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwN2FjYyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxM2ExLjc1IDEuNzUgMCAwIDAtMi4wMDQuMzQ4TDcuMDg2IDguODY3IDMuMTEyIDUuODUzYTEuMTY3IDEuMTY3IDAgMCAwLTEuNDkuMDY2bC0xLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwLS4wMDEgMS43MjRMMi44MDIgMTIgLjM0NiAxNC4yNDdhMS4xNjcgMS4xNjcgMCAwIDAgLjAwMSAxLjcyNGwxLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwIDEuNDkuMDY2bDMuOTc0LTMuMDE0IDkuMTIgOC4zMDZhMS43NSAxLjc1IDAgMCAwIDIuMDA0LjM0OGw0Ljk0LTIuMzc0YTEuNzUgMS43NSAwIDAgMCAuOTktMS41NzdWNC4xNjRhMS43NSAxLjc1IDAgMCAwLS45OS0xLjU3N3pNMTggMTYuNTk1TDExLjkzNyAxMiAxOCA3LjQwNXY5LjE5eiIvPjwvc3ZnPg==" alt="VS Code" />
   <img src="https://img.shields.io/badge/Sublime_Text-18181B?style=flat-square&logo=sublimetext&logoColor=FF9800" alt="Sublime Text" />
+  <img src="https://img.shields.io/badge/OpenCode-18181B?style=flat-square&logo=gnubash&logoColor=10B981" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+### Operating Systems Used
+
+<p>
+  <img src="https://img.shields.io/badge/Debian_13_(GNOME)-18181B?style=flat-square&logo=debian&logoColor=A81D33" alt="Debian 13 GNOME" />
+  <img src="https://img.shields.io/badge/Windows-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwNzhEMiI+PHBhdGggZD0iTTMgM2g4LjV2OC41SDNWM3ptOS41IDBIMjF2OC41aC04LjVWM3pNMzAgMTIuNUgxMS41VjIxSDN2LTguNXpNMTIuNSAxMi41SDIxVjIxaC04LjV2LTguNXoiLz48L3N2Zz4=" alt="Windows" />
 </p>
 
 ---
