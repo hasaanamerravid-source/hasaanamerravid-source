@@ -8,18 +8,25 @@ Minecraft Java Mod & Shader Developer • Pakistan
 
 ---
 
-### Tech & Modding Stack
+### Languages & Tools
 
-**Languages & Shaders:** Java • Kotlin • GLSL • JSON  
-**Modding & Tools:** Fabric • NeoForge • Mixins • Gradle • Blockbench • IntelliJ IDEA • Git
+<p>
+  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=D1D5DB" alt="Java" />
+  <img src="https://img.shields.io/badge/GLSL-18181B?style=flat-square&logo=opengl&logoColor=D1D5DB" alt="GLSL" />
+  <img src="https://img.shields.io/badge/Fabric-18181B?style=flat-square&logo=curseforge&logoColor=D1D5DB" alt="Fabric" />
+  <img src="https://img.shields.io/badge/NeoForge-18181B?style=flat-square&logo=modrinth&logoColor=D1D5DB" alt="NeoForge" />
+  <img src="https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=D1D5DB" alt="Gradle" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-18181B?style=flat-square&logo=intellijidea&logoColor=D1D5DB" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=D1D5DB" alt="Git" />
+</p>
 
 ---
 
 ### Featured Projects
 
 * **[Argon Performance](https://github.com/hasaanamerravid-source)** — Client-side optimization mod for Fabric and NeoForge.
+* **[Vanguard](https://github.com/hasaanamerravid-source/Vanguard)** ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanguard-optimizations)) — Client-side optimization and entity culling mod.
 * **[HSN-Shaders](https://github.com/hasaanamerravid-source)** — Lightweight GLSL shader pack for Iris and OptiFine.
-* **[Platinum-FPS](https://github.com/hasaanamerravid-source)** — Client-side performance modpack for Fabric and Quilt.
 
 ---
 
