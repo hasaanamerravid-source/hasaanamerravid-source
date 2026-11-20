@@ -24,11 +24,9 @@ Minecraft Java Mod & Shader Developer • Pakistan
 
 ### Featured Projects
 
-| | Project | Description |
-| :---: | :--- | :--- |
-| <img src="./assets/argon.png" width="32" height="32" alt="Argon Logo" /> | **[Argon Performance](https://www.curseforge.com/minecraft/mc-mods/argon-performance-fabric)** | Client-side optimization mod for Fabric and NeoForge. |
-| <img src="./assets/vanguard.png" width="32" height="32" alt="Vanguard Logo" /> | **[Vanguard](https://github.com/hasaanamerravid-source/Vanguard)** ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanguard-optimizations)) | Client-side optimization and entity culling mod. |
-| <img src="./assets/hsn-shaders.png" width="32" height="32" alt="HSN-Shaders Logo" /> | **[HSN-Shaders](https://github.com/hasaanamerravid-source)** | Lightweight GLSL shader pack for Iris and OptiFine. |
+* **[Argon Performance](https://www.curseforge.com/minecraft/mc-mods/argon-performance-fabric)** — Client-side optimization mod for Fabric and NeoForge.
+* **[Vanguard](https://github.com/hasaanamerravid-source/Vanguard)** ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanguard-optimizations)) — Client-side optimization and entity culling mod.
+* **[HSN-Shaders](https://github.com/hasaanamerravid-source)** — Lightweight GLSL shader pack for Iris and OptiFine.
 
 ---
 
