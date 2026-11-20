@@ -1,6 +1,6 @@
 # Hasaan Amer
 
-Minecraft Java Mod & Shader Developer • South Asia
+ • Minecraft Java Mod & Shader Developer • 
 
 [![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/hasaanamerravid-source?tab=repositories)
 [![Modrinth](https://img.shields.io/badge/Modrinth-18181B?style=flat-square&logo=modrinth&logoColor=1BD96A)](https://modrinth.com)
