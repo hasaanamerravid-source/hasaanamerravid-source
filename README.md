@@ -11,13 +11,14 @@ Minecraft Java Mod & Shader Developer • Pakistan
 ### Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=D1D5DB" alt="Java" />
-  <img src="https://img.shields.io/badge/GLSL-18181B?style=flat-square&logo=opengl&logoColor=D1D5DB" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Fabric-18181B?style=flat-square&logo=curseforge&logoColor=D1D5DB" alt="Fabric" />
-  <img src="https://img.shields.io/badge/NeoForge-18181B?style=flat-square&logo=modrinth&logoColor=D1D5DB" alt="NeoForge" />
-  <img src="https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=D1D5DB" alt="Gradle" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-18181B?style=flat-square&logo=intellijidea&logoColor=D1D5DB" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=D1D5DB" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/GLSL-18181B?style=flat-square&logo=opengl&logoColor=5586A4" alt="GLSL" />
+  <img src="https://img.shields.io/badge/Fabric-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2RiZDBiNCI+PHBhdGggZD0iTTYuNSAyQzUuMTIgMiA0IDMuMTIgNCA0LjVWMThjMCAxLjY2IDEuMzQgMyAzIDNoMTFjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMkg5LjVjMC0uNTUtLjQ1LTEtMS0xSDYuNXpNMTAgNWg3djExSDcuNVYxNGgxLjVWNS41QzkgNS4yMiA5LjIyIDUgOS41IDVIMTB6Ii8+PC9zdmc+" alt="Fabric" />
+  <img src="https://img.shields.io/badge/NeoForge-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y5NzMxNiI+PHBhdGggZD0iTTQgM2w0LjUgNS41aDdMMjAgM2wtMS41IDguNUwyMSAxNWwtNC41IDJMMTIgMjFsLTQuNS00TDMgMTVsMi41LTMuNUw0IDN6bTQuNSA5bDEuNSAyLjUgMi0xIDIgMSAxLjUtMi41LTMuNS0xLTMuNSAxWiIvPjwvc3ZnPg==" alt="NeoForge" />
+  <img src="https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=38BDF8" alt="Gradle" />
+  <img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwN2FjYyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxM2ExLjc1IDEuNzUgMCAwIDAtMi4wMDQuMzQ4TDcuMDg2IDguODY3IDMuMTEyIDUuODUzYTEuMTY3IDEuMTY3IDAgMCAwLTEuNDkuMDY2bC0xLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwLS4wMDEgMS43MjRMMi44MDIgMTIgLjM0NiAxNC4yNDdhMS4xNjcgMS4xNjcgMCAwIDAgLjAwMSAxLjcyNGwxLjI3NSAxLjE2YTEuMTY3IDEuMTY3IDAgMCAwIDEuNDkuMDY2bDMuOTc0LTMuMDE0IDkuMTIgOC4zMDZhMS43NSAxLjc1IDAgMCAwIDIuMDA0LjM0OGw0Ljk0LTIuMzc0YTEuNzUgMS43NSAwIDAgMCAuOTktMS41NzdWNC4xNjRhMS43NSAxLjc1IDAgMCAwLS45OS0xLjU3N3pNMTggMTYuNTk1TDExLjkzNyAxMiAxOCA3LjQwNXY5LjE5eiIvPjwvc3ZnPg==" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Sublime_Text-18181B?style=flat-square&logo=sublimetext&logoColor=FF9800" alt="Sublime Text" />
+  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ---
