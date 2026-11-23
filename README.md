@@ -55,8 +55,8 @@
 
 - **[Argon Performance](https://www.curseforge.com/minecraft/mc-mods/argon-performance-fabric)** — Client-side optimization mod for Fabric and NeoForge.
 - **[Vanguard](https://github.com/hasaanamerravid-source/Vanguard)** ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/vanguard-optimizations)) — Client-side optimization and entity culling mod.
-- **[HSN-Shaders](https://github.com/hasaanamerravid-source)** — Lightweight GLSL shader pack for Iris and OptiFine.
-- **[FlintQode](https://github.com/hasaanamerravid-source)** — Editor and Markdown preview app built with Tauri 2, Rust, React, CodeMirror 6, Vite, TypeScript, Zustand, and marked + DOMPurify.
+- **[HSN-Shaders](https://github.com/hasaanamerravid-source/HSN-Shaders)** — Lightweight GLSL shader pack for Iris and OptiFine.
+- **[FlintQode](https://github.com/hasaanamerravid-source/FlintQode)** — Editor and Markdown preview app built with Tauri 2, Rust, React, CodeMirror 6, Vite, TypeScript, Zustand, and marked + DOMPurify.
 
 ---
 
