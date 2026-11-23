@@ -20,8 +20,13 @@
   <img src="https://img.shields.io/badge/NeoForge-18181B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2Y5NzMxNiI+PHBhdGggZD0iTTQgM2w0LjUgNS41aDdMMjAgM2wtMS41IDguNUwyMSAxNWwtNC41IDJMMTIgMjFsLTQuNS00TDMgMTVsMi41LTMuNUw0IDN6bTQuNSA5bDEuNSAyLjUgMi0xIDIgMSAxLjUtMi41LTMuNS0xLTMuNSAxWiIvPjwvc3ZnPg==" alt="NeoForge" />
   <img src="https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=38BDF8" alt="Gradle" />
   <img src="https://img.shields.io/badge/Rust-18181B?style=flat-square&logo=rust&logoColor=DEA584" alt="Rust" />
+  <img src="https://img.shields.io/badge/HTML-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css&logoColor=663399" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Solid.js-18181B?style=flat-square&logo=solid&logoColor=2C4F7C" alt="Solid.js" />
   <img src="https://img.shields.io/badge/Tauri_2-18181B?style=flat-square&logo=tauri&logoColor=24C8DB" alt="Tauri 2" />
   <img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
   <img src="https://img.shields.io/badge/CodeMirror_6-18181B?style=flat-square&logo=codemirror&logoColor=D30707" alt="CodeMirror 6" />
